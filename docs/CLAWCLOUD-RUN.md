@@ -4,7 +4,22 @@
 
 > 本项目容器内部包含定时器（supercronic），不依赖平台额外的 Cron 产品。
 
-## 1) 先构建并推送镜像
+## 1) 通过 Git 仓库构建（推荐：让 Claw 直接拉取）
+
+如果 ClawCloud Run 支持 “From Git / Build from Repository / Dockerfile build”，优先用这种方式：你只需要把代码推到 GitHub，然后在 Claw 选择仓库 + Dockerfile 即可自动构建镜像。
+
+本项目的构建参数建议：
+
+- **Repository**：你的 GitHub 仓库（例如：`https://github.com/leecyno1/TrendRadar`）
+- **Build Context**：仓库根目录（`.`）
+- **Dockerfile Path**：`docker/Dockerfile`
+- **Container Port**：`8080`
+
+随后按本文的 “Persistent Storage” 和 “Environment Variables” 配置即可运行。
+
+> 如果你的 ClawCloud Run 不支持从 Git 构建，请跳到下一节 “先构建并推送镜像”。
+
+## 2) 先构建并推送镜像（兼容方案）
 
 ClawCloud Run “Create App” 需要一个可拉取的镜像地址（Public/Private Registry 均可）。下面给出 Docker Hub 的例子：
 
@@ -102,4 +117,3 @@ ClawCloud 文档里“从 Docker 迁移”的映射关系非常直接：`-p` →
   - 本地 SQLite + 单挂载目录模式本质是“单机状态”，多副本会带来数据一致性/锁问题。
 - **管理页能改哪些参数？**
   - 直接编辑并保存 `config.yaml` 与 `frequency_words.txt`（完整覆盖项目参数）。注意：环境变量优先级高于配置文件，若你在平台设置了某些环境变量，会覆盖你在配置文件里的同名项。
-
