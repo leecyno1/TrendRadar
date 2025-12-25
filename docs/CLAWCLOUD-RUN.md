@@ -10,7 +10,7 @@
 
 本项目的构建参数建议：
 
-- **Repository**：你的 GitHub 仓库（例如：`https://github.com/leecyno1/TrendRadar`）
+- **Repository**：你的 GitHub 仓库（例如：`https://github.com/leecyno1/TrendRadar-visual`）
 - **Build Context**：仓库根目录（`.`）
 - **Dockerfile Path**：`docker/Dockerfile`
 - **Container Port**：`8080`
