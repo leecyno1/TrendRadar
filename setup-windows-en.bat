@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 echo ==========================================
-echo   TrendRadar MCP Setup (Windows)
+echo   Dr.Lemon-NewsRadar MCP Setup (Windows)
 echo ==========================================
 echo:
 

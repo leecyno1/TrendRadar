@@ -2,22 +2,22 @@
 
 > **📢 公告：** **v4.0.0** 版本已发布！包含存储架构重构、数据库优化、模块化改进等重大更新
 
-<a href="https://github.com/sansan0/TrendRadar" title="TrendRadar">
-  <img src="/_image/banner.webp" alt="TrendRadar Banner" width="80%">
+<a href="https://github.com/leecyno1/trendradar-visual" title="Dr.Lemon-NewsRadar">
+  <img src="/_image/banner.webp" alt="Dr.Lemon-NewsRadar Banner" width="80%">
 </a>
 
 🚀 最快<strong>30秒</strong>部署的热点助手 —— 告别无效刷屏，只看真正关心的新闻资讯
 
-<a href="https://trendshift.io/repositories/14726" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14726" alt="sansan0%2FTrendRadar | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/14726" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14726" alt="leecyno1%2Ftrendradar-visual | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 <a href="https://share.302.ai/mEOUzG" target="_blank" title="一站式 AI 模型和 API 平台"><img src="_image/302ai.png" alt="302.AI logo" height="50"/></a>
 <a href="https://shandianshuo.cn" target="_blank" title="AI 语音输入，比打字快 4 倍 ⚡"><img src="_image/shandianshuo.png" alt="闪电说 logo" height="51"/></a>
 
-[![GitHub Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/sansan0/TrendRadar/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&logo=github&color=blue)](https://github.com/sansan0/TrendRadar/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/leecyno1/trendradar-visual?style=flat-square&logo=github&color=yellow)](https://github.com/leecyno1/trendradar-visual/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/leecyno1/trendradar-visual?style=flat-square&logo=github&color=blue)](https://github.com/leecyno1/trendradar-visual/network/members)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/version-v4.0.0-blue.svg)](https://github.com/sansan0/TrendRadar)
-[![MCP](https://img.shields.io/badge/MCP-v1.1.0-green.svg)](https://github.com/sansan0/TrendRadar)
+[![Version](https://img.shields.io/badge/version-v4.0.0-blue.svg)](https://github.com/leecyno1/trendradar-visual)
+[![MCP](https://img.shields.io/badge/MCP-v1.1.0-green.svg)](https://github.com/leecyno1/trendradar-visual)
 
 [![企业微信通知](https://img.shields.io/badge/企业微信-通知-00D4AA?style=flat-square)](https://work.weixin.qq.com/)
 [![个人微信通知](https://img.shields.io/badge/个人微信-通知-00D4AA?style=flat-square)](https://weixin.qq.com/)
@@ -30,8 +30,8 @@
 [![Slack通知](https://img.shields.io/badge/Slack-通知-00D4AA?style=flat-square)](https://slack.com/)
 
 
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-自动化-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/sansan0/TrendRadar)
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-部署-4285F4?style=flat-square&logo=github&logoColor=white)](https://sansan0.github.io/TrendRadar)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-自动化-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/leecyno1/trendradar-visual)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-部署-4285F4?style=flat-square&logo=github&logoColor=white)](https://leecyno1.github.io/trendradar-visual)
 [![Docker](https://img.shields.io/badge/Docker-部署-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/wantcat/trendradar)
 [![MCP Support](https://img.shields.io/badge/MCP-AI分析支持-FF6B6B?style=flat-square&logo=ai&logoColor=white)](https://modelcontextprotocol.io/)
 
@@ -169,10 +169,10 @@
 |           *云          |  88  | 2025.11.13  |    好项目，感谢开源  | 
 |           *W          |  6  | 2025.11.13  |      | 
 |           *凯          |  1  | 2025.11.13  |      | 
-|           对*.          |  1  | 2025.11.13  |    Thanks for your TrendRadar  | 
+|           对*.          |  1  | 2025.11.13  |    Thanks for your Dr.Lemon-NewsRadar  | 
 |           s*y          |  1  | 2025.11.13  |      | 
 |           **翔          |  10  | 2025.11.13  |   好项目，相见恨晚，感谢开源！     | 
-|           *韦          |  9.9  | 2025.11.13  |   TrendRadar超赞，请老师喝咖啡~     | 
+|           *韦          |  9.9  | 2025.11.13  |   Dr.Lemon-NewsRadar超赞，请老师喝咖啡~     | 
 |           h*p          |  5  | 2025.11.12  |   支持中国开源力量，加油！     | 
 |           c*r          |  6  | 2025.11.12  |        | 
 |           a*n          |  5  | 2025.11.12  |        | 
@@ -195,7 +195,7 @@
 |           *😀           |  10  | 2025.10.16  |     点赞     |
 |           **杰           |  10  | 2025.10.16  |          |
 |           *啸           |  10  | 2025.10.16  |          |
-|           *纪           |  5  | 2025.10.14  | TrendRadar         |
+|           *纪           |  5  | 2025.10.14  | Dr.Lemon-NewsRadar         |
 |           J*d           |  1  | 2025.10.14  | 谢谢你的工具，很好玩...          |
 |           *H           |  1  | 2025.10.14  |           |
 |           那*O           |  10  | 2025.10.13  |           |
@@ -314,7 +314,7 @@
 
 ### **个性化热点算法**
 
-不再被各个平台的算法牵着走，TrendRadar 会重新整理全网热搜：
+不再被各个平台的算法牵着走，Dr.Lemon-NewsRadar 会重新整理全网热搜：
 
 - **看重排名高的新闻**（占60%）：各平台前几名的新闻优先显示
 - **关注持续出现的话题**（占30%）：反复出现的新闻更重要
@@ -386,7 +386,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 >
 > 1分钟部署： 企业微信（手机通知）
 
-**💡 提示：** 想要**实时更新**的网页版？fork 后，进入你的仓库 Settings → Pages，启用 GitHub Pages。[效果预览](https://sansan0.github.io/TrendRadar/)。
+**💡 提示：** 想要**实时更新**的网页版？fork 后，进入你的仓库 Settings → Pages，启用 GitHub Pages。[效果预览](https://leecyno1.github.io/trendradar-visual/)。
 
 ### **减少 APP 依赖**
 
@@ -406,7 +406,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 ## 📝 更新日志
 
 >**升级说明**：
-- **📌 查看最新更新**：**[原仓库更新日志](https://github.com/sansan0/TrendRadar?tab=readme-ov-file#-更新日志)**
+- **📌 查看最新更新**：**[仓库更新日志](https://github.com/leecyno1/trendradar-visual?tab=readme-ov-file#-更新日志)**
 - **提示**：不要通过 **Sync fork** 更新本项目，建议查看【历史更新】，明确具体的【升级方式】和【功能内容】
 - **大版本升级**：从 v1.x 升级到 v2.y，建议删除现有 fork 后重新 fork，这样更省力且避免配置冲突
 
@@ -568,7 +568,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 > 📖 **详细配置教程**：[快速开始 - Bark 推送](#-快速开始)
 
 **🐛 Bug 修复**
-- 修复 `config.yaml` 中 `ntfy_server_url` 配置不生效的问题 ([#345](https://github.com/sansan0/TrendRadar/issues/345))
+- 修复 `config.yaml` 中 `ntfy_server_url` 配置不生效的问题 ([#345](https://github.com/leecyno1/trendradar-visual/issues/345))
 
 **🔧 升级说明**：
 - **GitHub Fork 用户**：更新 `main.py`、`config/config.yaml`、`.github/workflows/crawler.yml`
@@ -683,7 +683,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 
 ### 2025/10/10 - v2.4.3
 
-> 感谢 [nidaye996](https://github.com/sansan0/TrendRadar/issues/98) 发现的体验问题
+> 感谢 [nidaye996](https://github.com/leecyno1/trendradar-visual/issues/98) 发现的体验问题
 
 - **更新内容**：
     - 重构"静默推送模式"命名为"推送时间窗口控制"，提升功能理解度
@@ -725,7 +725,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 
 ### 2025/09/26 - v2.3.2
 
-- 修正了邮件通知配置检查被遗漏的问题（[#88](https://github.com/sansan0/TrendRadar/issues/88)）
+- 修正了邮件通知配置检查被遗漏的问题（[#88](https://github.com/leecyno1/trendradar-visual/issues/88)）
 
 **修复说明**：
 - 解决了即使正确配置邮件通知，系统仍提示"未配置任何webhook"的问题
@@ -828,7 +828,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 ### 2025/06/21 - v1.2.1
 
 在本版本之前的旧版本，不仅 main.py 需要复制替换， crawler.yml 也需要你复制替换
-https://github.com/sansan0/TrendRadar/blob/master/.github/workflows/crawler.yml
+https://github.com/leecyno1/trendradar-visual/blob/main/.github/workflows/crawler.yml
 
 ### 2025/06/19 - v1.2.0
 
@@ -901,7 +901,7 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
 
 ## 🚀 快速开始
 
-> **📖 提醒**：Fork 用户建议先 **[查看最新官方文档](https://github.com/sansan0/TrendRadar?tab=readme-ov-file)**，确保配置步骤是最新的。
+> **📖 提醒**：Fork 用户建议先 **[查看最新文档](https://github.com/leecyno1/trendradar-visual?tab=readme-ov-file)**，确保配置步骤是最新的。
 
 ### ⚠️ GitHub Actions 使用说明
 
@@ -1042,7 +1042,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
    #### 手机端设置：
    1. 打开企业微信 App → 进入目标内部群聊
    2. 点击右上角"…"按钮 → 选择"消息推送"
-   3. 点击"添加" → 名称输入"TrendRadar"
+   3. 点击"添加" → 名称输入"Dr.Lemon-NewsRadar"
    4. 复制 Webhook 地址，点击保存，复制的内容配置到上方的 GitHub Secret 中
 
    #### PC 端设置流程类似
@@ -1090,7 +1090,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
 
    有两个方案，**方案一**配置简单，**方案二**配置复杂(但是稳定推送)
 
-   其中方案一，由 **ziventian**发现并提供建议，在这里感谢他，默认是个人推送，也可以配置群组推送操作[#97](https://github.com/sansan0/TrendRadar/issues/97) ，
+   其中方案一，由 **ziventian**发现并提供建议，在这里感谢他，默认是个人推送，也可以配置群组推送操作[#97](https://github.com/leecyno1/trendradar-visual/issues/97) ，
 
    **方案一：**
 
@@ -1120,7 +1120,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
 
    6. 点击"选择操作" > "通过官方机器人发消息"
 
-   7. 消息标题填写"TrendRadar 热点监控"
+   7. 消息标题填写"Dr.Lemon-NewsRadar 热点监控"
 
    8. 最关键的部分来了，点击 + 按钮，选择"Webhook 触发"，然后按照下面的图片摆放
 
@@ -1158,7 +1158,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
 
    7. 点击"选择操作" > "发送飞书消息"，勾选 "群消息"，然后点击下面的输入框，点击"我管理的群组"（如果没有群组，你可以在飞书 app 上创建群组）
 
-   8. 消息标题填写"TrendRadar 热点监控"
+   8. 消息标题填写"Dr.Lemon-NewsRadar 热点监控"
 
    9. 最关键的部分来了，点击 + 按钮，选择"Webhook 触发"，然后按照下面的图片摆放
 
@@ -1294,12 +1294,12 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
    > **自动识别**：使用以上邮箱时，无需手动配置 `EMAIL_SMTP_SERVER` 和 `EMAIL_SMTP_PORT`，系统会自动识别。
    >
    > **反馈说明**：
-   > - 如果你使用**其他邮箱**测试成功，欢迎开 [Issues](https://github.com/sansan0/TrendRadar/issues) 告知，我会添加到支持列表
-   > - 如果上述邮箱配置有误或无法使用，也请开 [Issues](https://github.com/sansan0/TrendRadar/issues) 反馈，帮助改进项目
+   > - 如果你使用**其他邮箱**测试成功，欢迎开 [Issues](https://github.com/leecyno1/trendradar-visual/issues) 告知，我会添加到支持列表
+   > - 如果上述邮箱配置有误或无法使用，也请开 [Issues](https://github.com/leecyno1/trendradar-visual/issues) 反馈，帮助改进项目
    >
    > **特别感谢**：
-   > - 感谢 [@DYZYD](https://github.com/DYZYD) 贡献天翼邮箱（189.cn）配置并完成自发自收测试 ([#291](https://github.com/sansan0/TrendRadar/issues/291))
-   > - 感谢 [@longzhenren](https://github.com/longzhenren) 贡献阿里云邮箱（aliyun.com）配置并完成测试 ([#344](https://github.com/sansan0/TrendRadar/issues/344))
+   > - 感谢 [@DYZYD](https://github.com/DYZYD) 贡献天翼邮箱（189.cn）配置并完成自发自收测试 ([#291](https://github.com/leecyno1/trendradar-visual/issues/291))
+   > - 感谢 [@longzhenren](https://github.com/longzhenren) 贡献阿里云邮箱（aliyun.com）配置并完成测试 ([#344](https://github.com/leecyno1/trendradar-visual/issues/344))
 
    **常见邮箱设置：**
 
@@ -1402,7 +1402,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
      serve --cache-file /var/cache/ntfy/cache.db
    ```
 
-   **配置 TrendRadar**：
+   **配置 Dr.Lemon-NewsRadar**：
    ```yaml
    NTFY_SERVER_URL: https://ntfy.yourdomain.com
    NTFY_TOPIC: trendradar-alerts  # 自托管可用简单名称
@@ -1489,7 +1489,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
      finab/bark-server
    ```
 
-   **配置 TrendRadar**：
+   **配置 Dr.Lemon-NewsRadar**：
    ```yaml
    BARK_URL: http://your-server-ip:8080/your_device_key
    ```
@@ -1535,7 +1535,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
       - 点击 **"From scratch"**（从头开始创建）
 
    3. **填写 App 信息**：
-      - **App Name**：填写应用名称（如 `TrendRadar` 或 `热点新闻监控`）
+      - **App Name**：填写应用名称（如 `Dr.Lemon-NewsRadar` 或 `热点新闻监控`）
       - **Workspace**：从下拉列表选择你的工作空间
       - 点击 **"Create App"** 按钮
 
@@ -1575,7 +1575,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
       - 点击 URL 右侧的 **"Copy"** 按钮
       - 或手动选中 URL 并复制
 
-   3. **配置到 TrendRadar**：
+   3. **配置到 Dr.Lemon-NewsRadar**：
       - **GitHub Actions**：将 URL 添加到 GitHub Secrets 中的 `SLACK_WEBHOOK_URL`
       - **本地测试**：将 URL 填入 `config/config.yaml` 的 `slack_webhook_url` 字段
       - **Docker 部署**：将 URL 添加到 `docker/.env` 文件的 `SLACK_WEBHOOK_URL` 变量
@@ -1616,16 +1616,16 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
    **如何找到你的 Actions 页面**：
 
    - **方法一**：打开你 fork 的项目主页，点击顶部的 **Actions** 标签
-   - **方法二**：直接访问 `https://github.com/你的用户名/TrendRadar/actions`
+   - **方法二**：直接访问 `https://github.com/你的用户名/trendradar-visual/actions`
 
    **示例对比**：
-   - ❌ 作者的项目：`https://github.com/sansan0/TrendRadar/actions`
-   - ✅ 你的项目：`https://github.com/你的用户名/TrendRadar/actions`
+   - ❌ 作者的项目：`https://github.com/leecyno1/trendradar-visual/actions`
+   - ✅ 你的项目：`https://github.com/你的用户名/trendradar-visual/actions`
 
    **测试步骤**：
    1. 进入你项目的 Actions 页面
    2. 找到 **"Get Hot News"**(必须得是这个字)点进去，点击右侧的 **"Run workflow"** 按钮运行 
-      - 如果看不到该字样，参照 [#109](https://github.com/sansan0/TrendRadar/issues/109) 解决
+      - 如果看不到该字样，参照 [#109](https://github.com/leecyno1/trendradar-visual/issues/109) 解决
    3. 3 分钟左右，消息会推送到你配置的平台
 
    <br>
@@ -1648,7 +1648,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
 
 5. **🎉 部署成功！分享你的使用体验**
 
-   恭喜你完成了 TrendRadar 的配置！现在你可以开始追踪热点资讯了。
+   恭喜你完成了 Dr.Lemon-NewsRadar 的配置！现在你可以开始追踪热点资讯了。
 
    💬 **有更多小伙伴在公众号交流使用心得，期待你的分享~**
 
@@ -1702,7 +1702,7 @@ platforms:
   # 添加更多平台...
 ```
 
-> 💡 **快捷方式**：如果不会看源代码，可以复制他人整理好的 [平台配置汇总](https://github.com/sansan0/TrendRadar/issues/95)
+> 💡 **快捷方式**：如果不会看源代码，可以复制他人整理好的 [平台配置汇总](https://github.com/leecyno1/trendradar-visual/issues/95)
 
 > ⚠️ **注意**：平台不是越多越好，建议选择 10-15 个核心平台。过多平台会导致信息过载，反而降低使用体验。
 
@@ -2169,7 +2169,7 @@ weight:
 
 **镜像说明：**
 
-TrendRadar 提供两个独立的 Docker 镜像，可根据需求选择部署：
+Dr.Lemon-NewsRadar 提供两个独立的 Docker 镜像，可根据需求选择部署：
 
 | 镜像名称 | 用途 | 说明 |
 |---------|------|------|
@@ -2189,8 +2189,8 @@ TrendRadar 提供两个独立的 Docker 镜像，可根据需求选择部署：
    **方式 1-A：使用 git clone（推荐，最简单）**
    ```bash
    # 克隆项目到本地
-   git clone https://github.com/sansan0/TrendRadar.git
-   cd TrendRadar
+   git clone https://github.com/leecyno1/trendradar-visual.git
+   cd trendradar-visual
    ```
 
    **方式 1-B：使用 wget 下载配置文件**
@@ -2200,12 +2200,12 @@ TrendRadar 提供两个独立的 Docker 镜像，可根据需求选择部署：
    cd trendradar
 
    # 下载配置文件模板
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/config/config.yaml -P config/
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/config/frequency_words.txt -P config/
+   wget https://raw.githubusercontent.com/leecyno1/trendradar-visual/main/config/config.yaml -P config/
+   wget https://raw.githubusercontent.com/leecyno1/trendradar-visual/main/config/frequency_words.txt -P config/
 
    # 下载 docker compose 配置
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/docker/.env  -P docker/
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/docker/docker-compose.yml  -P docker/
+   wget https://raw.githubusercontent.com/leecyno1/trendradar-visual/main/docker/.env  -P docker/
+   wget https://raw.githubusercontent.com/leecyno1/trendradar-visual/main/docker/docker-compose.yml  -P docker/
    ```
 
    > 💡 **说明**：Docker 部署需要的关键目录结构如下：
@@ -2301,8 +2301,8 @@ TrendRadar 提供两个独立的 Docker 镜像，可根据需求选择部署：
 
 ```bash
 # 克隆项目
-git clone https://github.com/sansan0/TrendRadar.git
-cd TrendRadar
+git clone https://github.com/leecyno1/trendradar-visual.git
+cd trendradar-visual
 
 # 修改配置文件
 vim config/config.yaml
@@ -2408,7 +2408,7 @@ docker rm trend-radar
 
 **📊 网页版报告访问路径**：
 
-TrendRadar 生成的当日汇总 HTML 报告会同时保存到两个位置：
+Dr.Lemon-NewsRadar 生成的当日汇总 HTML 报告会同时保存到两个位置：
 
 | 文件位置 | 访问方式 | 适用场景 |
 |---------|---------|---------|
@@ -2490,7 +2490,7 @@ flowchart TB
 如果已按照 [方式一：使用 docker compose](#方式一使用-docker-compose推荐) 完成部署，只需启动 MCP 服务：
 
 ```bash
-cd TrendRadar/docker
+cd trendradar-visual/docker
 docker compose up -d trend-radar-mcp
 
 # 查看运行状态
@@ -3097,7 +3097,7 @@ app:
 
 ## 🤖 AI 智能分析
 
-TrendRadar v3.0.0 新增了基于 **MCP (Model Context Protocol)** 的 AI 分析功能，让你可以通过自然语言与新闻数据对话，进行深度分析。
+Dr.Lemon-NewsRadar v3.0.0 新增了基于 **MCP (Model Context Protocol)** 的 AI 分析功能，让你可以通过自然语言与新闻数据对话，进行深度分析。
 
 
 ### ⚠️ 使用前必读
@@ -3152,13 +3152,13 @@ Cherry Studio 提供 GUI 配置界面，5 分钟快速部署，复杂的部分�
 
 ## 🔌 MCP 客户端
 
-TrendRadar MCP 服务支持标准的 Model Context Protocol (MCP) 协议，可以接入各种支持 MCP 的 AI 客户端进行智能分析。
+Dr.Lemon-NewsRadar MCP 服务支持标准的 Model Context Protocol (MCP) 协议，可以接入各种支持 MCP 的 AI 客户端进行智能分析。
 
 ### 支持的客户端
 
 **注意事项**：
-- 将 `/path/to/TrendRadar` 替换为你的项目实际路径
-- Windows 路径使用双反斜杠：`C:\\Users\\YourName\\TrendRadar`
+- 将 `/path/to/dr-lemon-newsradar` 替换为你的项目实际路径
+- Windows 路径使用双反斜杠：`C:\\Users\\YourName\\dr-lemon-newsradar`
 - 保存后记得重启
 
 <details>
@@ -3182,7 +3182,7 @@ TrendRadar MCP 服务支持标准的 Model Context Protocol (MCP) 协议，可�
       "command": "uv",
       "args": [
         "--directory",
-        "/path/to/TrendRadar",
+        "/path/to/dr-lemon-newsradar",
         "run",
         "python",
         "-m",
@@ -3221,7 +3221,7 @@ TrendRadar MCP 服务支持标准的 Model Context Protocol (MCP) 协议，可�
      "mcpServers": {
        "trendradar": {
          "url": "http://localhost:3333/mcp",
-         "description": "TrendRadar 新闻热点聚合分析"
+         "description": "Dr.Lemon-NewsRadar 新闻热点聚合分析"
        }
      }
    }
@@ -3245,7 +3245,7 @@ TrendRadar MCP 服务支持标准的 Model Context Protocol (MCP) 协议，可�
       "command": "uv",
       "args": [
         "--directory",
-        "/path/to/TrendRadar",
+        "/path/to/dr-lemon-newsradar",
         "run",
         "python",
         "-m",
@@ -3284,7 +3284,7 @@ TrendRadar MCP 服务支持标准的 Model Context Protocol (MCP) 协议，可�
     "command": "uv",
     "args": [
       "--directory",
-      "/path/to/TrendRadar",
+      "/path/to/dr-lemon-newsradar",
       "run",
       "python",
       "-m",
@@ -3309,7 +3309,7 @@ TrendRadar MCP 服务支持标准的 Model Context Protocol (MCP) 协议，可�
           "command": "uv",
           "args": [
             "--directory",
-            "/path/to/TrendRadar",
+            "/path/to/dr-lemon-newsradar",
             "run",
             "python",
             "-m",
@@ -3371,7 +3371,7 @@ MCP Inspector 是官方调试工具，用于测试 MCP 连接：
 
 #### 使用步骤
 
-1. **启动 TrendRadar HTTP 服务**：
+1. **启动 Dr.Lemon-NewsRadar HTTP 服务**：
    ```bash
    # Windows
    start-http.bat
@@ -3400,7 +3400,7 @@ MCP Inspector 是官方调试工具，用于测试 MCP 连接：
 <summary>👉 点击展开：<b>其他支持 MCP 的客户端</b></summary>
 <br>
 
-任何支持 Model Context Protocol 的客户端都可以连接 TrendRadar：
+任何支持 Model Context Protocol 的客户端都可以连接 Dr.Lemon-NewsRadar：
 
 #### HTTP 模式
 
@@ -3425,7 +3425,7 @@ MCP Inspector 是官方调试工具，用于测试 MCP 连接：
   "command": "uv",
   "args": [
     "--directory",
-    "/path/to/TrendRadar",
+    "/path/to/dr-lemon-newsradar",
     "run",
     "python",
     "-m",
@@ -3436,7 +3436,7 @@ MCP Inspector 是官方调试工具，用于测试 MCP 连接：
 ```
 
 **注意事项**：
-- 替换 `/path/to/TrendRadar` 为实际项目路径
+- 替换 `/path/to/dr-lemon-newsradar` 为实际项目路径
 - Windows 路径使用反斜杠转义：`C:\\Users\\...`
 - 确保已完成项目依赖安装（运行过 setup 脚本）
 
@@ -3690,7 +3690,7 @@ flowchart TD
     style Q fill:#c8e6c9
 ```
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sansan0/TrendRadar&type=Date)](https://www.star-history.com/#sansan0/TrendRadar&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=leecyno1/trendradar-visual&type=Date)](https://www.star-history.com/#leecyno1/trendradar-visual&Date)
 
 <br>
 

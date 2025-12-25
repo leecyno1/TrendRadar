@@ -4,7 +4,7 @@
 
 </div>
 
-# TrendRadar MCP 工具使用问答
+# Dr.Lemon-NewsRadar MCP 工具使用问答
 
 > AI 提问指南 - 如何通过对话使用新闻热点分析工具
 

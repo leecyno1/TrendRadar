@@ -13,6 +13,7 @@ from typing import Any, Dict, List, Optional, Tuple
 import yaml
 from fastapi import Depends, FastAPI, HTTPException, Request
 from fastapi.responses import FileResponse, HTMLResponse, JSONResponse
+from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 
 from trendradar.web.config_store import ConfigStore
@@ -233,7 +234,11 @@ def _write_text_file_with_backup(path: Path, content: str) -> None:
     path.write_text(content, encoding="utf-8")
 
 
-app = FastAPI(title="TrendRadar Dashboard", version="0.1.0")
+app = FastAPI(title="Dr.Lemon-NewsRadar", version="0.1.0")
+
+STATIC_DIR = Path(__file__).parent / "static"
+if STATIC_DIR.exists():
+    app.mount("/static", StaticFiles(directory=str(STATIC_DIR)), name="static")
 
 
 @app.get("/api/health")
@@ -256,7 +261,7 @@ def home(request: Request) -> Any:
         request,
         "home.html",
         {
-            "title": "TrendRadar",
+            "title": "Dr.Lemon-NewsRadar",
         },
     )
 

@@ -2,22 +2,22 @@
 
 > **📢 Announcement:** **v4.0.0** has been released! Including storage architecture refactoring, database optimization, modularization improvements, and more major updates
 
-<a href="https://github.com/sansan0/TrendRadar" title="TrendRadar">
-  <img src="/_image/banner.webp" alt="TrendRadar Banner" width="80%">
+<a href="https://github.com/leecyno1/trendradar-visual" title="Dr.Lemon-NewsRadar">
+  <img src="/_image/banner.webp" alt="Dr.Lemon-NewsRadar Banner" width="80%">
 </a>
 
 🚀 Deploy in <strong>30 seconds</strong> — Say goodbye to endless scrolling, only see the news you truly care about
 
-<a href="https://trendshift.io/repositories/14726" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14726" alt="sansan0%2FTrendRadar | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/14726" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14726" alt="leecyno1%2Ftrendradar-visual | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 <a href="https://share.302.ai/mEOUzG" target="_blank" title="One-stop AI Models & APIs Platform"><img src="_image/302ai.png" alt="302.AI logo" height="50"/></a>
 <a href="https://shandianshuo.cn" target="_blank" title="AI Voice Input, 4x Faster Than Typing ⚡"><img src="_image/shandianshuo.png" alt="FlashSpeak logo" height="51"/></a>
 
-[![GitHub Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/sansan0/TrendRadar/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&logo=github&color=blue)](https://github.com/sansan0/TrendRadar/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/leecyno1/trendradar-visual?style=flat-square&logo=github&color=yellow)](https://github.com/leecyno1/trendradar-visual/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/leecyno1/trendradar-visual?style=flat-square&logo=github&color=blue)](https://github.com/leecyno1/trendradar-visual/network/members)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/version-v4.0.0-blue.svg)](https://github.com/sansan0/TrendRadar)
-[![MCP](https://img.shields.io/badge/MCP-v1.1.0-green.svg)](https://github.com/sansan0/TrendRadar)
+[![Version](https://img.shields.io/badge/version-v4.0.0-blue.svg)](https://github.com/leecyno1/trendradar-visual)
+[![MCP](https://img.shields.io/badge/MCP-v1.1.0-green.svg)](https://github.com/leecyno1/trendradar-visual)
 
 [![WeWork](https://img.shields.io/badge/WeWork-Notification-00D4AA?style=flat-square)](https://work.weixin.qq.com/)
 [![WeChat](https://img.shields.io/badge/WeChat-Notification-00D4AA?style=flat-square)](https://weixin.qq.com/)
@@ -30,8 +30,8 @@
 [![Slack](https://img.shields.io/badge/Slack-Notification-00D4AA?style=flat-square)](https://slack.com/)
 
 
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/sansan0/TrendRadar)
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Deployment-4285F4?style=flat-square&logo=github&logoColor=white)](https://sansan0.github.io/TrendRadar)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/leecyno1/trendradar-visual)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Deployment-4285F4?style=flat-square&logo=github&logoColor=white)](https://leecyno1.github.io/trendradar-visual)
 [![Docker](https://img.shields.io/badge/Docker-Deployment-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/wantcat/trendradar)
 [![MCP Support](https://img.shields.io/badge/MCP-AI_Analysis-FF6B6B?style=flat-square&logo=ai&logoColor=white)](https://modelcontextprotocol.io/)
 
@@ -167,10 +167,10 @@ After communication, the author indicated no concerns about server pressure, but
 | *云 | 88 | 2025.11.13 | Good project |
 | *W | 6 | 2025.11.13 | |
 | *凯 | 1 | 2025.11.13 | |
-| 对*. | 1 | 2025.11.13 | Thanks for TrendRadar |
+| 对*. | 1 | 2025.11.13 | Thanks for Dr.Lemon-NewsRadar |
 | s*y | 1 | 2025.11.13 | |
 | **翔 | 10 | 2025.11.13 | Wish I found it earlier |
-| *韦 | 9.9 | 2025.11.13 | TrendRadar is awesome |
+| *韦 | 9.9 | 2025.11.13 | Dr.Lemon-NewsRadar is awesome |
 | h*p | 5 | 2025.11.12 | Support Chinese open source |
 | c*r | 6 | 2025.11.12 | |
 | a*n | 5 | 2025.11.12 | |
@@ -266,7 +266,7 @@ Real-time tracking of news popularity changes helps you understand not just "wha
 
 ### **Personalized Trending Algorithm**
 
-No longer controlled by platform algorithms, TrendRadar reorganizes all trending searches:
+No longer controlled by platform algorithms, Dr.Lemon-NewsRadar reorganizes all trending searches:
 
 - **Prioritize High-Ranking News** (60%): Top-ranked news from each platform appears first
 - **Focus on Persistent Topics** (30%): Repeatedly appearing news is more important
@@ -340,7 +340,7 @@ One-click GitHub Fork to use, no programming required.
 >
 > 1-minute deployment: WeWork (mobile notification)
 
-**💡 Tip:** Want a **real-time updated** web version? After forking, go to your repo Settings → Pages and enable GitHub Pages. [Preview Effect](https://sansan0.github.io/TrendRadar/).
+**💡 Tip:** Want a **real-time updated** web version? After forking, go to your repo Settings → Pages and enable GitHub Pages. [Preview Effect](https://leecyno1.github.io/trendradar-visual/).
 
 ### **Reduce APP Dependencies**
 
@@ -360,7 +360,7 @@ Transform from "algorithm recommendation captivity" to "actively getting the inf
 ## 📝 Changelog
 
 >**Upgrade Instructions**:
-- **📌 Check Latest Updates**: **[Original Repository Changelog](https://github.com/sansan0/TrendRadar?tab=readme-ov-file#-changelog)**
+- **📌 Check Latest Updates**: **[Repository Changelog](https://github.com/leecyno1/trendradar-visual?tab=readme-ov-file#-changelog)**
 - **Tip**: Do NOT update this project via **Sync fork**. Check [Changelog] to understand specific [Upgrade Methods] and [Features]
 - **Major Version Upgrade**: Upgrading from v1.x to v2.y, recommend deleting existing fork and re-forking to save effort and avoid config conflicts
 
@@ -514,7 +514,7 @@ Transform from "algorithm recommendation captivity" to "actively getting the inf
 > 📖 **Detailed Configuration Tutorial**: [Quick Start - Bark Push](#-quick-start)
 
 **🐛 Bug Fix**
-- Fixed issue where `ntfy_server_url` in `config.yaml` was ignored ([#345](https://github.com/sansan0/TrendRadar/issues/345))
+- Fixed issue where `ntfy_server_url` in `config.yaml` was ignored ([#345](https://github.com/leecyno1/trendradar-visual/issues/345))
 
 **🔧 Upgrade Instructions**:
 - **GitHub Fork Users**: Update `main.py`, `config/config.yaml`, `.github/workflows/crawler.yml`
@@ -630,7 +630,7 @@ Transform from "algorithm recommendation captivity" to "actively getting the inf
 
 ### 2025/10/10 - v2.4.3
 
-> Thanks to [nidaye996](https://github.com/sansan0/TrendRadar/issues/98) for discovering the UX issue
+> Thanks to [nidaye996](https://github.com/leecyno1/trendradar-visual/issues/98) for discovering the UX issue
 
 - **Updates**:
   - Refactored "Silent Push Mode" naming to "Push Time Window Control", improving feature comprehension
@@ -672,7 +672,7 @@ Transform from "algorithm recommendation captivity" to "actively getting the inf
 
 ### 2025/09/26 - v2.3.2
 
-- Fixed email notification config check being missed ([#88](https://github.com/sansan0/TrendRadar/issues/88))
+- Fixed email notification config check being missed ([#88](https://github.com/leecyno1/trendradar-visual/issues/88))
 
 **Fix Description**:
 - Solved the issue where system still prompted "No webhook configured" even with correct email notification setup
@@ -788,7 +788,7 @@ WeWork and Telegram push messages have length limits, I adopted splitting messag
 ### 2025/06/21 - v1.2.1
 
 Before this version, not only main.py needs copy replacement, crawler.yml also needs you to copy replacement
-https://github.com/sansan0/TrendRadar/blob/master/.github/workflows/crawler.yml
+https://github.com/leecyno1/trendradar-visual/blob/main/.github/workflows/crawler.yml
 
 
 ### 2025/06/19 - v1.2.0
@@ -856,7 +856,7 @@ frequency_words.txt file added **required word** feature, using + sign
 
 ## 🚀 Quick Start
 
-> **📖 Reminder**: Fork users should first **[check the latest official documentation](https://github.com/sansan0/TrendRadar?tab=readme-ov-file)** to ensure the configuration steps are up to date.
+> **📖 Reminder**: Fork users should first **[check the latest documentation](https://github.com/leecyno1/trendradar-visual?tab=readme-ov-file)** to ensure the configuration steps are up to date.
 
 ### ⚠️ GitHub Actions Usage Instructions
 
@@ -979,7 +979,7 @@ For long-term stable operation, we recommend [Docker Deployment](#6-docker-deplo
    #### Mobile Setup:
    1. Open WeWork App → Enter target internal group chat
    2. Click "…" button at top right → Select "Message Push"
-   3. Click "Add" → Name input "TrendRadar"
+   3. Click "Add" → Name input "Dr.Lemon-NewsRadar"
    4. Copy Webhook address, click save, paste the copied content into GitHub Secret above
 
    #### PC Setup Process Similar
@@ -1027,7 +1027,7 @@ For long-term stable operation, we recommend [Docker Deployment](#6-docker-deplo
 
    Two methods available, **Method 1** is simpler, **Method 2** is more complex (but stable push)
 
-   Method 1 discovered and suggested by **ziventian**, thanks to them. Default is personal push, group push can be configured via [#97](https://github.com/sansan0/TrendRadar/issues/97)
+   Method 1 discovered and suggested by **ziventian**, thanks to them. Default is personal push, group push can be configured via [#97](https://github.com/leecyno1/trendradar-visual/issues/97)
 
    **Method 1:**
 
@@ -1057,7 +1057,7 @@ For long-term stable operation, we recommend [Docker Deployment](#6-docker-deplo
 
    6. Click "Select Action" > "Send via Official Bot"
 
-   7. Message title fill "TrendRadar Trending Monitor"
+   7. Message title fill "Dr.Lemon-NewsRadar Trending Monitor"
 
    8. Most critical part, click + button, select "Webhook Trigger", then arrange as shown in image
 
@@ -1095,7 +1095,7 @@ For long-term stable operation, we recommend [Docker Deployment](#6-docker-deplo
 
    7. Click "Select Action" > "Send Feishu Message", check "Group Message", then click the input box below, click "Groups I Manage" (if no group, you can create one in Feishu app)
 
-   8. Message title fill "TrendRadar Trending Monitor"
+   8. Message title fill "Dr.Lemon-NewsRadar Trending Monitor"
 
    9. Most critical part, click + button, select "Webhook Trigger", then arrange as shown in image
 
@@ -1231,12 +1231,12 @@ For long-term stable operation, we recommend [Docker Deployment](#6-docker-deplo
    > **Auto-detect**: When using above emails, no need to manually configure `EMAIL_SMTP_SERVER` and `EMAIL_SMTP_PORT`, system auto-detects.
    >
    > **Feedback Notice**:
-   > - If you successfully test with **other email providers**, please open an [Issue](https://github.com/sansan0/TrendRadar/issues) to let us know, we'll add to support list
-   > - If above email configurations are incorrect or unusable, please also open an [Issue](https://github.com/sansan0/TrendRadar/issues) for feedback to help improve the project
+   > - If you successfully test with **other email providers**, please open an [Issue](https://github.com/leecyno1/trendradar-visual/issues) to let us know, we'll add to support list
+   > - If above email configurations are incorrect or unusable, please also open an [Issue](https://github.com/leecyno1/trendradar-visual/issues) for feedback to help improve the project
    >
    > **Special Thanks**:
-   > - Thanks to [@DYZYD](https://github.com/DYZYD) for contributing 189 Mail (189.cn) configuration and completing self-send-receive testing ([#291](https://github.com/sansan0/TrendRadar/issues/291))
-   > - Thanks to [@longzhenren](https://github.com/longzhenren) for contributing Aliyun Mail (aliyun.com) configuration and completing testing ([#344](https://github.com/sansan0/TrendRadar/issues/344))
+   > - Thanks to [@DYZYD](https://github.com/DYZYD) for contributing 189 Mail (189.cn) configuration and completing self-send-receive testing ([#291](https://github.com/leecyno1/trendradar-visual/issues/291))
+   > - Thanks to [@longzhenren](https://github.com/longzhenren) for contributing Aliyun Mail (aliyun.com) configuration and completing testing ([#344](https://github.com/leecyno1/trendradar-visual/issues/344))
 
    **Common Email Settings:**
 
@@ -1339,7 +1339,7 @@ For long-term stable operation, we recommend [Docker Deployment](#6-docker-deplo
      serve --cache-file /var/cache/ntfy/cache.db
    ```
 
-   **Configure TrendRadar**:
+   **Configure Dr.Lemon-NewsRadar**:
    ```yaml
    NTFY_SERVER_URL: https://ntfy.yourdomain.com
    NTFY_TOPIC: trendradar-alerts  # Self-hosting can use simple name
@@ -1426,7 +1426,7 @@ For long-term stable operation, we recommend [Docker Deployment](#6-docker-deplo
      finab/bark-server
    ```
 
-   **Configure TrendRadar**:
+   **Configure Dr.Lemon-NewsRadar**:
    ```yaml
    BARK_URL: http://your-server-ip:8080/your_device_key
    ```
@@ -1472,7 +1472,7 @@ For long-term stable operation, we recommend [Docker Deployment](#6-docker-deplo
       - Click **"From scratch"**
 
    3. **Fill in App Information**:
-      - **App Name**: Enter app name (e.g., `TrendRadar` or `Hot News Monitor`)
+      - **App Name**: Enter app name (e.g., `Dr.Lemon-NewsRadar` or `Hot News Monitor`)
       - **Workspace**: Select your workspace from dropdown
       - Click **"Create App"** button
 
@@ -1512,7 +1512,7 @@ For long-term stable operation, we recommend [Docker Deployment](#6-docker-deplo
       - Click **"Copy"** button on the right of URL
       - Or manually select and copy URL
 
-   3. **Configure to TrendRadar**:
+   3. **Configure to Dr.Lemon-NewsRadar**:
       - **GitHub Actions**: Add URL to GitHub Secrets as `SLACK_WEBHOOK_URL`
       - **Local Testing**: Fill URL in `config/config.yaml` `slack_webhook_url` field
       - **Docker Deployment**: Add URL to `docker/.env` file as `SLACK_WEBHOOK_URL` variable
@@ -1560,16 +1560,16 @@ For long-term stable operation, we recommend [Docker Deployment](#6-docker-deplo
    **How to find your Actions page**:
 
    - **Method 1**: Open your forked project homepage, click the **Actions** tab at the top
-   - **Method 2**: Direct access `https://github.com/YourUsername/TrendRadar/actions`
+   - **Method 2**: Direct access `https://github.com/YourUsername/trendradar-visual/actions`
 
    **Example comparison**:
-   - ❌ Author's project: `https://github.com/sansan0/TrendRadar/actions`
-   - ✅ Your project: `https://github.com/YourUsername/TrendRadar/actions`
+   - ❌ Author's project: `https://github.com/leecyno1/trendradar-visual/actions`
+   - ✅ Your project: `https://github.com/YourUsername/trendradar-visual/actions`
 
    **Testing steps**:
    1. Enter your project's Actions page
    2. Find **"Hot News Crawler"** and click in
-      - If you don't see this text, refer to [#109](https://github.com/sansan0/TrendRadar/issues/109) to solve
+      - If you don't see this text, refer to [#109](https://github.com/leecyno1/trendradar-visual/issues/109) to solve
    3. Click **"Run workflow"** button on the right to run
    4. Wait about 1 minute, messages will be pushed to your configured platform
 
@@ -1591,7 +1591,7 @@ For long-term stable operation, we recommend [Docker Deployment](#6-docker-deplo
 
 5. **🎉 Deployment Success! Share Your Experience**
 
-   Congratulations on completing TrendRadar configuration! You can now start tracking trending news.
+   Congratulations on completing Dr.Lemon-NewsRadar configuration! You can now start tracking trending news.
 
    💬 **Join our community to share your experience~**
 
@@ -1645,7 +1645,7 @@ platforms:
   # Add more platforms...
 ```
 
-> 💡 **Shortcut**: If you don't know how to read source code, you can copy from others' organized [Platform Configuration Summary](https://github.com/sansan0/TrendRadar/issues/95)
+> 💡 **Shortcut**: If you don't know how to read source code, you can copy from others' organized [Platform Configuration Summary](https://github.com/leecyno1/trendradar-visual/issues/95)
 
 > ⚠️ **Note**: More platforms is not always better, suggest choosing 10-15 core platforms. Too many platforms will cause information overload and actually reduce user experience.
 
@@ -2115,7 +2115,7 @@ Updated: 2025-01-15 12:30:15
 
 **Image Description:**
 
-TrendRadar provides two independent Docker images, deploy according to your needs:
+Dr.Lemon-NewsRadar provides two independent Docker images, deploy according to your needs:
 
 | Image Name | Purpose | Description |
 |---------|------|------|
@@ -2135,8 +2135,8 @@ TrendRadar provides two independent Docker images, deploy according to your need
    **Method 1-A: Using git clone (Recommended, Simplest)**
    ```bash
    # Clone project to local
-   git clone https://github.com/sansan0/TrendRadar.git
-   cd TrendRadar
+   git clone https://github.com/leecyno1/trendradar-visual.git
+   cd trendradar-visual
    ```
 
    **Method 1-B: Using wget to download config files**
@@ -2146,12 +2146,12 @@ TrendRadar provides two independent Docker images, deploy according to your need
    cd trendradar
 
    # Download config file templates
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/config/config.yaml -P config/
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/config/frequency_words.txt -P config/
+   wget https://raw.githubusercontent.com/leecyno1/trendradar-visual/main/config/config.yaml -P config/
+   wget https://raw.githubusercontent.com/leecyno1/trendradar-visual/main/config/frequency_words.txt -P config/
 
    # Download docker compose config
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/docker/.env -P docker/
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/docker/docker-compose.yml -P docker/
+   wget https://raw.githubusercontent.com/leecyno1/trendradar-visual/main/docker/.env -P docker/
+   wget https://raw.githubusercontent.com/leecyno1/trendradar-visual/main/docker/docker-compose.yml -P docker/
    ```
 
    > 💡 **Note**: Key directory structure required for Docker deployment:
@@ -2247,8 +2247,8 @@ If you need custom code modifications or build your own image:
 
 ```bash
 # Clone project
-git clone https://github.com/sansan0/TrendRadar.git
-cd TrendRadar
+git clone https://github.com/leecyno1/trendradar-visual.git
+cd trendradar-visual
 
 # Modify config files
 vim config/config.yaml
@@ -2353,7 +2353,7 @@ Generated reports and data are saved in `./output` directory by default. Data pe
 
 **📊 Web Report Access Paths**:
 
-TrendRadar generates daily summary HTML reports to two locations simultaneously:
+Dr.Lemon-NewsRadar generates daily summary HTML reports to two locations simultaneously:
 
 | File Location | Access Method | Use Case |
 |--------------|---------------|----------|
@@ -2435,18 +2435,18 @@ Use docker compose to start both news push and MCP services:
 
 ```bash
 # Method 1: Clone project (Recommended)
-git clone https://github.com/sansan0/TrendRadar.git
-cd TrendRadar/docker
+git clone https://github.com/leecyno1/trendradar-visual.git
+cd trendradar-visual/docker
 docker compose up -d
 
 # Method 2: Download docker-compose.yml separately
 mkdir trendradar && cd trendradar
-wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/docker/docker-compose.yml
-wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/docker/.env
+wget https://raw.githubusercontent.com/leecyno1/trendradar-visual/main/docker/docker-compose.yml
+wget https://raw.githubusercontent.com/leecyno1/trendradar-visual/main/docker/.env
 mkdir -p config output
 # Download config files
-wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/config/config.yaml -P config/
-wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/config/frequency_words.txt -P config/
+wget https://raw.githubusercontent.com/leecyno1/trendradar-visual/main/config/config.yaml -P config/
+wget https://raw.githubusercontent.com/leecyno1/trendradar-visual/main/config/frequency_words.txt -P config/
 # Modify volume paths in docker-compose.yml: ../config -> ./config, ../output -> ./output
 docker compose up -d
 
@@ -2951,7 +2951,7 @@ notification:
 
 #### Storage Backend Selection
 
-TrendRadar v4.0.0 introduces **multi-backend storage architecture**, supporting automatic backend selection or manual specification:
+Dr.Lemon-NewsRadar v4.0.0 introduces **multi-backend storage architecture**, supporting automatic backend selection or manual specification:
 
 | Configuration Value | Description | Applicable Scenarios |
 |---------------------|-------------|---------------------|
@@ -3146,7 +3146,7 @@ export TIMEZONE=Asia/Shanghai
 
 ## 🤖 AI Analysis
 
-TrendRadar v3.0.0 added **MCP (Model Context Protocol)** based AI analysis feature, allowing natural language conversations with news data for deep analysis.
+Dr.Lemon-NewsRadar v3.0.0 added **MCP (Model Context Protocol)** based AI analysis feature, allowing natural language conversations with news data for deep analysis.
 
 
 ### ⚠️ Important Notice Before Use
@@ -3204,13 +3204,13 @@ Cherry Studio provides GUI config interface, 5-minute quick deployment, complex 
 
 ## 🔌 MCP Clients
 
-TrendRadar MCP service supports standard Model Context Protocol (MCP), can connect to various AI clients supporting MCP for smart analysis.
+Dr.Lemon-NewsRadar MCP service supports standard Model Context Protocol (MCP), can connect to various AI clients supporting MCP for smart analysis.
 
 ### Supported Clients
 
 **Note**:
-- Replace `/path/to/TrendRadar` with your actual project path
-- Windows paths use double backslashes: `C:\\Users\\YourName\\TrendRadar`
+- Replace `/path/to/dr-lemon-newsradar` with your actual project path
+- Windows paths use double backslashes: `C:\\Users\\YourName\\dr-lemon-newsradar`
 - Remember to restart after saving
 
 <details>
@@ -3234,7 +3234,7 @@ Edit Claude Desktop's MCP config file:
       "command": "uv",
       "args": [
         "--directory",
-        "/path/to/TrendRadar",
+        "/path/to/dr-lemon-newsradar",
         "run",
         "python",
         "-m",
@@ -3273,7 +3273,7 @@ Edit Claude Desktop's MCP config file:
      "mcpServers": {
        "trendradar": {
          "url": "http://localhost:3333/mcp",
-         "description": "TrendRadar News Trending Aggregation Analysis"
+         "description": "Dr.Lemon-NewsRadar News Trending Aggregation Analysis"
        }
      }
    }
@@ -3297,7 +3297,7 @@ Create `.cursor/mcp.json`:
       "command": "uv",
       "args": [
         "--directory",
-        "/path/to/TrendRadar",
+        "/path/to/dr-lemon-newsradar",
         "run",
         "python",
         "-m",
@@ -3336,7 +3336,7 @@ Add in Cline's MCP settings:
     "command": "uv",
     "args": [
       "--directory",
-      "/path/to/TrendRadar",
+      "/path/to/dr-lemon-newsradar",
       "run",
       "python",
       "-m",
@@ -3361,7 +3361,7 @@ Edit `~/.continue/config.json`:
           "command": "uv",
           "args": [
             "--directory",
-            "/path/to/TrendRadar",
+            "/path/to/dr-lemon-newsradar",
             "run",
             "python",
             "-m",
@@ -3423,7 +3423,7 @@ MCP Inspector is the official debug tool for testing MCP connections:
 
 #### Usage Steps
 
-1. **Start TrendRadar HTTP Service**:
+1. **Start Dr.Lemon-NewsRadar HTTP Service**:
    ```bash
    # Windows
    start-http.bat
@@ -3453,7 +3453,7 @@ MCP Inspector is the official debug tool for testing MCP connections:
 <summary><b>👉 Click to expand: Other MCP-Compatible Clients</b></summary>
 <br>
 
-Any client supporting Model Context Protocol can connect to TrendRadar:
+Any client supporting Model Context Protocol can connect to Dr.Lemon-NewsRadar:
 
 #### HTTP Mode
 
@@ -3478,7 +3478,7 @@ Any client supporting Model Context Protocol can connect to TrendRadar:
   "command": "uv",
   "args": [
     "--directory",
-    "/path/to/TrendRadar",
+    "/path/to/dr-lemon-newsradar",
     "run",
     "python",
     "-m",
@@ -3489,7 +3489,7 @@ Any client supporting Model Context Protocol can connect to TrendRadar:
 ```
 
 **Notes**:
-- Replace `/path/to/TrendRadar` with actual project path
+- Replace `/path/to/dr-lemon-newsradar` with actual project path
 - Windows paths use backslash escape: `C:\\Users\\...`
 - Ensure project dependencies installed (ran setup script)
 
@@ -3747,7 +3747,7 @@ flowchart TD
     style Q fill:#c8e6c9
 ```
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sansan0/TrendRadar&type=Date)](https://www.star-history.com/#sansan0/TrendRadar&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=leecyno1/trendradar-visual&type=Date)](https://www.star-history.com/#leecyno1/trendradar-visual&Date)
 
 <br>
 

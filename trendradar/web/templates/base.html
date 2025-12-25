@@ -3,34 +3,75 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{{ title or "TrendRadar" }}</title>
+    <title>{{ title or "Dr.Lemon-NewsRadar" }}</title>
+    <meta name="description" content="Dr.Lemon-NewsRadar：热点新闻聚合、分析与可视化报告（Reports/Browse/Manage）。" />
+    <link rel="icon" href="/static/dr-lemon-logo.svg" type="image/svg+xml" />
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-      :root { color-scheme: dark; }
-      body { background: #0b1020; }
-      .glass { background: rgba(255,255,255,0.06); backdrop-filter: blur(14px); border: 1px solid rgba(255,255,255,0.10); }
-      .muted { color: rgba(255,255,255,0.72); }
-      .card { background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.08); }
-      .btn { background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.12); }
+      :root {
+        --bg: #0b1020;
+        --bg2: #0a0f1a;
+        --text: rgba(255,255,255,0.95);
+        --muted: rgba(255,255,255,0.70);
+        --card: rgba(255,255,255,0.06);
+        --card2: rgba(255,255,255,0.05);
+        --border: rgba(255,255,255,0.12);
+        --border2: rgba(255,255,255,0.10);
+        --link: rgba(250, 204, 21, 0.95);
+        --accent: #facc15;
+        --accent2: #22c55e;
+        color-scheme: dark;
+      }
+
+      html.light {
+        --bg: #f8fafc;
+        --bg2: #eef2f7;
+        --text: rgba(15, 23, 42, 0.92);
+        --muted: rgba(15, 23, 42, 0.60);
+        --card: rgba(255,255,255,0.92);
+        --card2: rgba(255,255,255,0.88);
+        --border: rgba(15, 23, 42, 0.12);
+        --border2: rgba(15, 23, 42, 0.10);
+        --link: rgba(180, 83, 9, 0.95);
+        color-scheme: light;
+      }
+
+      body { background: var(--bg); color: var(--text); }
+      .glass { background: var(--card); backdrop-filter: blur(14px); border: 1px solid var(--border2); }
+      .muted { color: var(--muted); }
+      .card { background: var(--card2); border: 1px solid var(--border2); }
+      .btn { background: rgba(255,255,255,0.08); border: 1px solid var(--border); }
+      html.light .btn { background: rgba(15,23,42,0.04); }
       .btn:hover { background: rgba(255,255,255,0.12); }
-      .input { background: rgba(0,0,0,0.25); border: 1px solid rgba(255,255,255,0.12); }
-      a { color: rgba(140, 180, 255, 0.95); }
+      html.light .btn:hover { background: rgba(15,23,42,0.07); }
+      .input { background: rgba(0,0,0,0.22); border: 1px solid var(--border); }
+      html.light .input { background: rgba(255,255,255,0.72); }
+      a { color: var(--link); }
+      code { color: var(--muted); }
     </style>
   </head>
-  <body class="text-white min-h-screen">
+  <body class="min-h-screen">
     <div class="fixed inset-0 -z-10">
-      <div class="absolute inset-0 bg-gradient-to-b from-indigo-500/10 via-transparent to-fuchsia-500/10"></div>
-      <div class="absolute -top-24 left-1/2 h-96 w-96 -translate-x-1/2 rounded-full bg-indigo-500/20 blur-3xl"></div>
-      <div class="absolute bottom-0 right-0 h-80 w-80 rounded-full bg-fuchsia-500/15 blur-3xl"></div>
+      <div class="absolute inset-0 bg-gradient-to-b from-amber-400/10 via-transparent to-emerald-400/10"></div>
+      <div class="absolute -top-24 left-1/2 h-96 w-96 -translate-x-1/2 rounded-full bg-amber-400/18 blur-3xl"></div>
+      <div class="absolute bottom-0 right-0 h-80 w-80 rounded-full bg-emerald-400/12 blur-3xl"></div>
     </div>
 
-    <header class="sticky top-0 z-20 border-b border-white/10 bg-[#0b1020]/75 backdrop-blur">
-      <div class="mx-auto max-w-6xl px-4 py-3 flex items-center justify-between">
-        <a href="/" class="font-semibold tracking-wide">TrendRadar</a>
+    <header class="sticky top-0 z-20 border-b border-black/10 dark:border-white/10 backdrop-blur" style="background: color-mix(in srgb, var(--bg) 75%, transparent);">
+      <div class="mx-auto max-w-6xl px-4 py-3 flex items-center justify-between gap-3">
+        <a href="/" class="flex items-center gap-2 font-semibold tracking-wide">
+          <img src="/static/dr-lemon-logo.svg" alt="Dr.Lemon-NewsRadar" class="h-6 w-6" />
+          <span>Dr.Lemon-NewsRadar</span>
+        </a>
         <nav class="flex items-center gap-2 text-sm">
           <a class="btn rounded-lg px-3 py-1.5" href="/reports">Reports</a>
           <a class="btn rounded-lg px-3 py-1.5" href="/browse">Browse</a>
           <a class="btn rounded-lg px-3 py-1.5" href="/manage">Manage</a>
+          <select id="theme" class="input rounded-lg px-2 py-1.5 text-sm" title="Theme">
+            <option value="system">System</option>
+            <option value="light">Light</option>
+            <option value="dark">Dark</option>
+          </select>
         </nav>
       </div>
     </header>
@@ -40,11 +81,47 @@
     </main>
 
     <footer class="mx-auto max-w-6xl px-4 pb-10 muted text-xs">
-      <div class="border-t border-white/10 pt-6 flex items-center justify-between">
-        <span>TrendRadar Dashboard</span>
-        <a class="muted hover:text-white" href="/api/health">/api/health</a>
+      <div class="border-t pt-6 flex items-center justify-between" style="border-color: var(--border2);">
+        <span>Dr.Lemon-NewsRadar Dashboard</span>
+        <a class="muted hover:opacity-90" href="/api/health">/api/health</a>
       </div>
     </footer>
+
+    <script>
+      (function () {
+        const storageKey = 'dl_theme';
+        const select = document.getElementById('theme');
+        if (!select) return;
+
+        function systemTheme() {
+          return window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        }
+
+        function apply(mode) {
+          const resolved = mode === 'system' ? systemTheme() : mode;
+          document.documentElement.classList.remove('dark', 'light');
+          document.documentElement.classList.add(resolved);
+          document.documentElement.dataset.theme = mode;
+          select.value = mode;
+        }
+
+        const saved = localStorage.getItem(storageKey) || 'system';
+        apply(saved);
+
+        select.addEventListener('change', () => {
+          const mode = select.value;
+          localStorage.setItem(storageKey, mode);
+          apply(mode);
+        });
+
+        if (window.matchMedia) {
+          const mq = window.matchMedia('(prefers-color-scheme: dark)');
+          mq.addEventListener('change', () => {
+            const mode = localStorage.getItem(storageKey) || 'system';
+            if (mode === 'system') apply('system');
+          });
+        }
+      })();
+    </script>
   </body>
 </html>
-

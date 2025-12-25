@@ -1,4 +1,4 @@
-# ClawCloud Run 上线指南（TrendRadar Dashboard）
+# ClawCloud Run 上线指南（Dr.Lemon-NewsRadar Dashboard）
 
 目标：在 ClawCloud Run 上运行一个容器，长期定时抓取 + 生成报告 + 提供 Web UI（Reports/Browse/Manage），并把数据持久化挂载到外部存储，容器重建/迁移后数据不丢。
 
@@ -14,7 +14,7 @@
 
 本项目的构建参数建议：
 
-- **Repository**：你的 GitHub 仓库（例如：`https://github.com/leecyno1/TrendRadar-visual`）
+- **Repository**：你的 GitHub 仓库（例如：`https://github.com/leecyno1/trendradar-visual`）
 - **Build Context**：仓库根目录（`.`）
 - **Dockerfile Path**：`docker/Dockerfile`
 - **Container Port**：`8080`

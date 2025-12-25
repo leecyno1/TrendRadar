@@ -2,7 +2,7 @@
 chcp 65001 >nul
 
 echo ============================================================
-echo   TrendRadar MCP Server (HTTP 模式)
+echo   Dr.Lemon-NewsRadar MCP Server (HTTP 模式)
 echo ============================================================
 echo.
 

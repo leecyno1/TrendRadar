@@ -1,5 +1,5 @@
 """
-TrendRadar MCP Server - FastMCP 2.0 实现
+Dr.Lemon-NewsRadar MCP Server - FastMCP 2.0 实现
 
 使用 FastMCP 2.0 提供生产级 MCP 工具服务器。
 支持 stdio 和 HTTP 两种传输模式。
@@ -803,7 +803,7 @@ def run_server(
     # 打印启动信息
     print()
     print("=" * 60)
-    print("  TrendRadar MCP Server - FastMCP 2.0")
+    print("  Dr.Lemon-NewsRadar MCP Server - FastMCP 2.0")
     print("=" * 60)
     print(f"  传输模式: {transport.upper()}")
 
@@ -871,7 +871,7 @@ if __name__ == '__main__':
     import argparse
 
     parser = argparse.ArgumentParser(
-        description='TrendRadar MCP Server - 新闻热点聚合 MCP 工具服务器',
+        description='Dr.Lemon-NewsRadar MCP Server - 新闻热点聚合 MCP 工具服务器',
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 详细配置教程请查看: README-Cherry-Studio.md

@@ -428,7 +428,7 @@ def restart_supercronic():
 
 
 def start_webserver():
-    """启动 Web 服务器（TrendRadar Dashboard）"""
+    """启动 Web 服务器（Dr.Lemon-NewsRadar Dashboard）"""
     if _PORT_ENV and _WEBSERVER_PORT_ENV and str(_PORT_ENV).strip() != str(_WEBSERVER_PORT_ENV).strip():
         print(
             f"⚠️ 检测到 PORT({_PORT_ENV}) 与 WEBSERVER_PORT({_WEBSERVER_PORT_ENV}) 不一致，"
@@ -592,7 +592,7 @@ def webserver_status():
 def show_help():
     """显示帮助信息"""
     help_text = """
-🐳 TrendRadar 容器管理工具
+🐳 Dr.Lemon-NewsRadar 容器管理工具
 
 📋 命令列表:
   run              - 手动执行一次爬虫

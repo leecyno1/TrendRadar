@@ -4,7 +4,7 @@
 
 </div>
 
-# TrendRadar MCP Tool Usage Q&A
+# Dr.Lemon-NewsRadar MCP Tool Usage Q&A
 
 > AI Query Guide - How to Use News Trend Analysis Tools Through Conversation
 

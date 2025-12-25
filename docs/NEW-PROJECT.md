@@ -1,6 +1,6 @@
 # 形成独立新项目（迁移到你的 Git 仓库）
 
-你现在这份代码是在原 TrendRadar 基础上增加了 Dashboard（前端页面 + 管理/浏览 API）与 ClawCloud Run 部署能力。要变成你自己的“独立新项目”，推荐按下面步骤操作（保留可选的 upstream）：
+你现在这份代码是在原 Dr.Lemon-NewsRadar 基础上增加了 Dashboard（前端页面 + 管理/浏览 API）与 ClawCloud Run 部署能力。要变成你自己的“独立新项目”，推荐按下面步骤操作（保留可选的 upstream）：
 
 ## 方案 A：直接把当前目录推到你的新仓库（最简单）
 
@@ -16,14 +16,14 @@
 适合你不想带上原项目提交历史时使用：
 
 1. 复制一份目录（避免破坏你当前工作区）：
-   - `cp -R TrendRadar TrendRadar-dashboard`
+   - `cp -R Dr.Lemon-NewsRadar Dr.Lemon-NewsRadar-dashboard`
 2. 进入新目录：
-   - `cd TrendRadar-dashboard`
+   - `cd Dr.Lemon-NewsRadar-dashboard`
 3. 删除旧的 git 历史并重新初始化：
    - `rm -rf .git`
    - `git init`
    - `git add -A`
-   - `git commit -m "init: TrendRadar dashboard"`
+   - `git commit -m "init: Dr.Lemon-NewsRadar dashboard"`
 4. 绑定你的远端并推送：
    - `git remote add origin <你的仓库地址>`
    - `git push -u origin master`（或 `main`）
@@ -33,4 +33,3 @@
 - `trendradar-dashboard`
 - `trendradar-claw`
 - `trendradar-admin`
-

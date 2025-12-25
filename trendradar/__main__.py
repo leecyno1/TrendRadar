@@ -1,6 +1,6 @@
 # coding=utf-8
 """
-TrendRadar 主程序
+Dr.Lemon-NewsRadar 主程序
 
 热点新闻聚合与分析工具
 支持: python -m trendradar
@@ -105,7 +105,7 @@ class NewsAnalyzer:
         # 加载配置
         print("正在加载配置...")
         config = load_config()
-        print(f"TrendRadar v{VERSION} 配置加载完成")
+        print(f"Dr.Lemon-NewsRadar v{VERSION} 配置加载完成")
         print(f"监控平台数量: {len(config['PLATFORMS'])}")
         print(f"时区: {config.get('TIMEZONE', 'Asia/Shanghai')}")
 
